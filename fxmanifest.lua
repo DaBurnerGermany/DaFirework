@@ -3,13 +3,13 @@ game 'gta5'
 
 name 'DaFirework'
 author 'DaBurnerGermany'
-version '1.0.0'
+version '1.0.1'
 
 lua54 'yes'
 
 client_scripts{
 	'config.lua',
-	'client/client.lua'
+	'client.lua'
 }
 
 server_scripts {
